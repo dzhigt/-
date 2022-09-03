@@ -1,0 +1,5 @@
+a=input()
+a=eval(a)
+b=input()
+b=eval(b)
+print("a*b")
